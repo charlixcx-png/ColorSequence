@@ -28,3 +28,9 @@ Build/
 
 # Ignore Crash Reports
 *.dmp
+
+*.apk
+*.exe
+*.obb
+Build/
+App/
