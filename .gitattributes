@@ -1,3 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+Content/VRTemplate/** filter=lfs diff=lfs merge=lfs -text
 App/Android_ASTC/** filter=lfs diff=lfs merge=lfs -text
