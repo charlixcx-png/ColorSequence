@@ -34,3 +34,9 @@ Build/
 *.obb
 Build/
 App/
+
+# No subir builds a GitHub
+App/
+Saved/
+Intermediate/
+DerivedDataCache/
