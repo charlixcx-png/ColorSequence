@@ -35,8 +35,9 @@ Build/
 Build/
 App/
 
-# No subir builds a GitHub
+# No subir builds/exportaciones
 App/
-Saved/
-Intermediate/
+Binaries/
 DerivedDataCache/
+Intermediate/
+Saved/
